@@ -1,6 +1,6 @@
 ## NextJs, Typescript, Jest, and Testing Library.
 
-## Different types of testing
+### Different types of testing
 
 ```bash
 Unit Testing
